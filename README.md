@@ -5,6 +5,8 @@
 
 BerryIMU - An accelerometer, gyroscope, magnetometer, Barometric Pressure, Temperature, Altitude
 
+BerryIMU - test
+
 Head on over to http://ozzmaker.com/berryimu-quick-start-guide/ for full details.
 
 <h1>BerryIMUv2</h1>
